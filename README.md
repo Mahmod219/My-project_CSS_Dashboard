@@ -26,7 +26,7 @@ Projects table with team and status
 
 🚀 Demo
 
-[Live Demo]
+https://mahmod219.github.io/My-project_CSS_Dashboard/
 
 📁 Technologies
 
